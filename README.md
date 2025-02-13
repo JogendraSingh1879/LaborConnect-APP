@@ -1,6 +1,10 @@
 ## LaborConnect-APP
 ## **Connecting Daily Wage Laborers with Hirers – A Smart eCommerce Solution**
 
+🔗 **MVP Demo:** Click the link below to explore the demo version. Please note that this demo is for preview purposes only and will remain valid for **7 days from the date of posting.**
+
+[https://e46080ba-154a-481a-b002-4c2109f16e49-00-1pfijnuwoyj26.janeway.replit.dev/auth](http://bit.ly/3CSt1Kv)
+
 ## **🛠️ Daily Wage Labor Marketplace – AI-Powered Hiring Platform**
 
 **🔹 Overview**
